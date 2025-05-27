@@ -2,6 +2,7 @@
 
 ## Notes
 
+- Statistical Uncertainties for Fano Coefficients [(PDF)](https://github.com/mattlow/quantum/blob/main/Notes-StatisticalUncertainties.pdf)
 - White Paper [(ArXiv)](https://arxiv.org/abs/2504.00086)
 
 ## Slides
